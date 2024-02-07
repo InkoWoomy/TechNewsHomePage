@@ -1,3 +1,7 @@
+#Peer Reviewer: Zachary Dressel
+#Peer Review: Code on Vercel is not hosting properly, causing it to not look like the reference. The code makes sense but is missing some key features that may also cause 
+it to look incorrect. Overall looks OK with spacing, but the dark column looks off. Needs some work but not too much to look great.
+
 # Frontend Mentor - News homepage
 
 ![Design preview for the News homepage coding challenge](./design/desktop-preview.jpg)
